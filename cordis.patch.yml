@@ -1,0 +1,6 @@
+- insert:
+    - id: dsh-deliver-verdict
+      name: 'dsh-deliver-verdict'
+      config:
+        enabled: true
+        tool: true
